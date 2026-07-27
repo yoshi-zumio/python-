@@ -1,0 +1,4 @@
+/chap07/doc/piyo/*
+!.gitkeep
+
+**/__pycache__/**
